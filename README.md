@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oloruntoba-john
-- 👀 I’m interested in learning how this works
+- 👀 I’m interested in learning html, css and javascript
 - 🌱 I’m currently learning how to code using vscode
 - 💞️ I’m looking to collaborate with anyone
 - 📫 reach me on twitter @ol0runtoba
